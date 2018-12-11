@@ -1,0 +1,9 @@
+#phone{
+display: grid;
+position: relative;
+justify-content: space-around;
+align-items: center;
+height: 80vh;
+width:50vh;
+background: "red";
+}
